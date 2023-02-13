@@ -1,2 +1,4 @@
 # Card_Deck
-Assignment 2
+Deck of cards assignment in CPP and Python <br />
+By: Daniel Örhill
+
